@@ -1,0 +1,8 @@
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\bin\Debug\netstandard2.0\ExcelFinancialFunctions.deps.json
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\bin\Debug\netstandard2.0\ExcelFinancialFunctions.dll
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\bin\Debug\netstandard2.0\ExcelFinancialFunctions.pdb
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\obj\Debug\netstandard2.0\ExcelFinancialFunctions.fsprojAssemblyReference.cache
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\obj\Debug\netstandard2.0\ExcelFinancialFunctions.AssemblyInfoInputs.cache
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\obj\Debug\netstandard2.0\ExcelFinancialFunctions.AssemblyInfo.fs
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\obj\Debug\netstandard2.0\ExcelFinancialFunctions.dll
+D:\git\ExcelFinancialFunctions\newone\ExcelFinancialFunctions\src\ExcelFinancialFunctions\obj\Debug\netstandard2.0\ExcelFinancialFunctions.pdb

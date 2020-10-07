@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbJ1gUYGbZktNT1f4eATgiOah2RaBDG2CflIshNchPlsuCe3FyM+ht69vVNP1SjKHZR461MTPuOnRCebSMCnzg==",
+  "success": true,
+  "projectFilePath": "D:\\git\\ExcelFinancialFunctions\\newone\\ExcelFinancialFunctions\\src\\ExcelFinancialFunctions\\ExcelFinancialFunctions.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipeguarneri\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

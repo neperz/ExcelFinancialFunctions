@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="publicenums.fs" />
+    <Compile Include="common.fs" />
+    <Compile Include="tvm.fs" />
+    <Compile Include="loan.fs" />
+    <Compile Include="irr.fs" />
+    <Compile Include="daycountbasis.fs" />
+    <Compile Include="bonds.fs" />
+    <Compile Include="depreciation.fs" />
+    <Compile Include="tbill.fs" />
+    <Compile Include="oddbonds.fs" />
+    <Compile Include="misc.fs" />
+    <Compile Include="wrapperdotnettype.fs" />
+    <Compile Include="testpreconditions.fs" />
+  </ItemGroup>
+
+</Project>
