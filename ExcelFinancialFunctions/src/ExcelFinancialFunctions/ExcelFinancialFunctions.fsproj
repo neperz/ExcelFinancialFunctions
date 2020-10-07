@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>ExcelFinancialFunctions31</PackageId>
+    <Authors>ExcelFinancialFunctions31</Authors>
+    <Product>ExcelFinancialFunctions31</Product>
+    <Company>Wiz</Company>
+    <PackageTags>ExcelFinancialFunctions31</PackageTags>
+    <PackageReleaseNotes>Funcoes matematicas do excel</PackageReleaseNotes>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
